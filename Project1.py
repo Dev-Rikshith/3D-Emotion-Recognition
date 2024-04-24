@@ -1,3 +1,5 @@
+# @author Rikshith Tirumanpuri
+# @course Affective Computing
 
 #Importing Basic Libraries
 import os
